@@ -3,7 +3,8 @@ body {
     margin: auto;
     max-width: 38rem;
     padding: 0rem;
-    background-color: ##008080 !important;
+    background-color: transparent !important;
+    background-image: url("https://i.imgur.com/vlK0pK8.gif");
   }
   html {
     background-color: transparent;
